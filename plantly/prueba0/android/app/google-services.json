@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "81520963088",
+    "project_id": "plantly-b8bd4",
+    "storage_bucket": "plantly-b8bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81520963088:android:dfd2719d54970ad531a495",
+        "android_client_info": {
+          "package_name": "com.example.prueba0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81520963088-hnm5p2j5hini3im1obdoqac4vvi2762j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxRQ30l4B3w9h_NPfKqtiEWLNsGKo-dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81520963088-hnm5p2j5hini3im1obdoqac4vvi2762j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81520963088-9aovs95cm1tu63166pnkrea4cj33ch4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "y"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
